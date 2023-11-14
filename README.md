@@ -16,7 +16,7 @@
   <a href="https://twitter.com/ab_aryan_01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ab_aryan_01" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/inaryan-bansal02" target="_blank">
+  <a href="https://linkedin.com/in/aryan-bansal02" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inaryan-bansal02" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aryan_bansal02" target="_blank">
